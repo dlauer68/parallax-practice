@@ -1,0 +1,48 @@
+.nav {
+
+}
+
+.slide {
+    height: 650px;
+}
+
+.hero-section {
+    height: 100px;
+}
+
+
+.slide-1 {
+    background-image: url(../img/10766000048_IMG_7562.jpg) ;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-2 {
+    background-image: url(../img/5562755504_IMG_0971.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-3 {
+    background-image: url(../img/5562755504_IMG_0978.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.slide-4 {
+    background-image: url(../img/5562755504_IMG_0980.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer {
+    height: 150px;
+}
